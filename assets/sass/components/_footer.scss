@@ -1,0 +1,19 @@
+.footer {
+	padding: 20px 0 50px 0;
+	background-image: url("../images/pattern4.jpg");
+	font-family: 'Nunito', sans-serif;
+
+	.msg {
+		text-transform: uppercase;
+		font-weight: bold;
+		color:  #50c3af;
+	}
+
+	.form-control {
+		background: transparent;
+	}
+
+	.form-control:focus {
+		border-color: #50c3af;
+	}
+}

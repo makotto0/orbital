@@ -1,0 +1,26 @@
+h1, h2, h3, h4, h5, h6{
+	display: block;
+}
+
+h1{
+	font-size: 32px;
+}
+
+h2{
+	font-size: 25px;
+	text-transform: uppercase;
+}
+
+p{
+	font-size: 16px;
+	color: darken($color-neutral, 10%);
+	line-height: 250%;
+}
+
+.light-text {
+	color:  lighten($color-neutral, 65%);
+}
+
+.text-brand {
+	color: #50c3af;
+}

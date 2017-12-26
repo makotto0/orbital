@@ -1,0 +1,25 @@
+.content {
+	background-color: transparent;
+	background-image: url("../images/pattern4.jpg");
+
+	.post_control {
+		background-color: transparent;
+	}
+
+	.post_control:focus {
+		border-color: #50c3af;
+	}
+}
+
+.thumb {
+	padding: 30px 0 30px 0;
+	background-image: url("../images/pattern4.jpg");
+
+
+	.right {
+		background-color: transparent;
+		border: none;
+		font-family: 'Nunito', sans-serif;
+	}
+
+}
